@@ -1,5 +1,5 @@
 
-# DeepLearningHacking repo
+# LearningByHacking repo
 
 Some examples of personal projects used to explore various machine learning subjects. 
 
